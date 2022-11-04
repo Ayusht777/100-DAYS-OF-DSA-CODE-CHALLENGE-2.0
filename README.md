@@ -44,3 +44,13 @@ ________
 ### :date: _DAY 101_
 
 - :calendar: 03-11-2022 THRUSDAY
+
+* [x] Selection Sort 
+* [x] Bubble Sort 
+* [x] Insertataion Sort 
+
+![101](https://user-images.githubusercontent.com/106388215/199776470-a0c82d1b-681c-408f-87e9-a3e345ca3e1c.png)
+
+
+
+
