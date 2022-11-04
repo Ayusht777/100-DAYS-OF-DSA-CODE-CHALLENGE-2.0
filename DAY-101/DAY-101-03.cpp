@@ -1,8 +1,7 @@
 #include<iostream>
 #include <bits/stdc++.h> 
-//Bubble Sort 
-//https://www.codingninjas.com/codestudio/problems/bubble-sort_980524?leftPanelTab=1
-
+//Insertataion Sort 
+//https://www.codingninjas.com/codestudio/problems/insertion-sort_3155179?leftPanelTab=1
 
 //small size work good
 using namespace std;
