@@ -53,4 +53,16 @@ ________
 
 
 
+### :date: _DAY 102_
+
+- :calendar: 04-11-2022 FRIDAY
+
+* [x] Reverse a array
+* [x] Merge Two Sorted Arrays
+* [x] Move Zeroes
+* [x] Rotate Array
+
+![102](https://user-images.githubusercontent.com/106388215/200031333-81a6b121-d7a2-4b0e-9325-a6e7913d6481.png)
+
+
 
