@@ -65,4 +65,15 @@ ________
 ![102](https://user-images.githubusercontent.com/106388215/200031333-81a6b121-d7a2-4b0e-9325-a6e7913d6481.png)
 
 
+### :date: _DAY 103_
+
+- :calendar: 05-11-2022 SATURDAY
+
+* [x] Check if Array Is Sorted and Rotated
+* [x] Reverse a String
+* [x] Find sum of 2 array
+
+![103](https://user-images.githubusercontent.com/106388215/200129142-4083be26-2cc6-4d2e-966f-7f37f53c1962.png)
+
+
 
