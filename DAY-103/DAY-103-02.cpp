@@ -1,7 +1,6 @@
 
 #include <bits/stdc++.h> 
-//1752. Check if Array Is Sorted and Rotated
-//https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+// Find sum of 2 array
 
 
 using namespace std;
