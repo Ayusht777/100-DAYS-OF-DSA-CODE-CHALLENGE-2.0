@@ -75,5 +75,13 @@ ________
 
 ![103](https://user-images.githubusercontent.com/106388215/200129142-4083be26-2cc6-4d2e-966f-7f37f53c1962.png)
 
+### :date: _DAY 104_
+
+- :calendar: 06-11-2022 SUNDAY
+
+* [x]  Check If The String Is A Palindrome 
+* [x]  125. Valid Palindrome
+
+![104](https://user-images.githubusercontent.com/106388215/200178722-21d6950a-c5bc-48fd-b705-de07163e0757.png)
 
 
