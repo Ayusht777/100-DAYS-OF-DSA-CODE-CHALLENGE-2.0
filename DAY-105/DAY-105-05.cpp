@@ -1,6 +1,8 @@
 
 #include <bits/stdc++.h> 
+//567. Permutation in String
 
+//https://leetcode.com/problems/permutation-in-string/description/
 using namespace std;
  bool checkEqual(int a[26],int b[26]){
         for(int i = 0;i<26;i++){
