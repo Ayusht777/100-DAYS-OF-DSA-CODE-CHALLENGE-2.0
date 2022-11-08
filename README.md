@@ -85,3 +85,17 @@ ________
 ![104](https://user-images.githubusercontent.com/106388215/200178722-21d6950a-c5bc-48fd-b705-de07163e0757.png)
 
 
+### :date: _DAY 105_
+
+- :calendar: 07-11-2022 MONDAY
+
+* [x] Reverse Words in a String II 
+* [x] Maximum Occurring Character
+* [x] Replace Spaces 
+* [x] 1910.Remove All Occurrences of a Sub-string
+* [x] 567. Permutation in String
+* [x] 1047.Remove All Adjacent Duplicates In String
+* [x] 443. String Compression
+
+![105](https://user-images.githubusercontent.com/106388215/200364615-c7c7c964-f538-4eb9-b0ab-9a2856d2952c.png)
+
