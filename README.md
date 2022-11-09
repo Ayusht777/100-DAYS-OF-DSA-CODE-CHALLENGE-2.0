@@ -99,3 +99,17 @@ ________
 
 ![105](https://user-images.githubusercontent.com/106388215/200364615-c7c7c964-f538-4eb9-b0ab-9a2856d2952c.png)
 
+
+### :date: _DAY 106_
+
+- :calendar: 08-11-2022 TUESDAY
+
+* [x] Print Like A Wave 
+* [x] 54. Spiral Matrix
+* [x] Rotate Image 
+* [x] 74. Search a 2D Matrix
+* [x] 240. Search a 2D Matrix II
+
+![106](https://user-images.githubusercontent.com/106388215/200629594-de2bdfed-c57c-406e-a1c2-5829c03b3c5d.png)
+
+
