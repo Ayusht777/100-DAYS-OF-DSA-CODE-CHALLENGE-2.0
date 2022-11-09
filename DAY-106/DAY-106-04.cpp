@@ -1,7 +1,7 @@
 
 #include <bits/stdc++.h> 
-//54. Spiral Matrix
-///https://leetcode.com/problems/spiral-matrix/description/
+//
+//https://leetcode.com/problems/rotate-image/description/
 using namespace std;
  void rotate(vector<vector<int>>& matrix) {
         int r =matrix.size();
