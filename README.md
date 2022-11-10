@@ -125,3 +125,17 @@ ________
 
 ![107](https://user-images.githubusercontent.com/106388215/200902082-bf9da8b8-7632-423f-a2cd-fdddda492b29.png)
 
+### :date: _DAY 108_
+
+- :calendar: 10-11-2022 THRUSDAY
+
+* [x] Double Pointers
+* [x] Reference Variable  Static vs Dynamic Memory 
+* [x] Dynamic Memory Allocation of 2D Arrays
+* [x] Macros 
+* [x] Global Variables 
+* [x] Inline Functions  
+* [x] Default Args
+
+![108](https://user-images.githubusercontent.com/106388215/201156587-43cd9ed2-b598-4df4-80b5-727ede08087a.png)
+
