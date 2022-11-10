@@ -113,3 +113,15 @@ ________
 ![106](https://user-images.githubusercontent.com/106388215/200629594-de2bdfed-c57c-406e-a1c2-5829c03b3c5d.png)
 
 
+### :date: _DAY 107_
+
+- :calendar: 09-11-2022 WEDNESDAY
+
+* [x] 204. Count Primes using (Sieve of Eratosthenes)
+* [x] 204. Count Primes using (Segmented Sieve)
+* [x] gcd (hcf)
+* [x] Modular Exponentiation 
+* [x] Pointers
+
+![107](https://user-images.githubusercontent.com/106388215/200902082-bf9da8b8-7632-423f-a2cd-fdddda492b29.png)
+
