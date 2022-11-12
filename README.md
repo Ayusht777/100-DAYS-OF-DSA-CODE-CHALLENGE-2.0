@@ -139,3 +139,17 @@ ________
 
 ![108](https://user-images.githubusercontent.com/106388215/201156587-43cd9ed2-b598-4df4-80b5-727ede08087a.png)
 
+
+### :date: _DAY 109_
+
+- :calendar: 11-11-2022 FRIDAY
+
+* [x] Recursion
+* [x] Factorial
+* [x] Power of 2
+* [x] 509. Fibonacci Number
+* [x] Count Ways To Reach The N-th Stairs 
+* [x] Say Digit's
+
+![109](https://user-images.githubusercontent.com/106388215/201394868-b8b0ea80-af7e-4ba3-ba5d-8541da0fb720.png)
+
