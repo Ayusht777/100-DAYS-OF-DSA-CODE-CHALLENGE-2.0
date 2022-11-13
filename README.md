@@ -169,3 +169,15 @@ ________
 
 ![110](https://user-images.githubusercontent.com/106388215/201485573-e5022994-ef02-4d61-bc86-876a5415fb5a.png)
 
+
+### :date: _DAY 111_
+
+- :calendar: 13-11-2022 SUNDAY
+
+* [x] Merge Sort 
+* [x] Quick Sort
+
+![111](https://user-images.githubusercontent.com/106388215/201536463-cdc86797-3cd2-47a8-bf07-1d352fabe634.png)
+
+
+
