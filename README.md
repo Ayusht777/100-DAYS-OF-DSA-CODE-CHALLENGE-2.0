@@ -153,3 +153,19 @@ ________
 
 ![109](https://user-images.githubusercontent.com/106388215/201394868-b8b0ea80-af7e-4ba3-ba5d-8541da0fb720.png)
 
+
+### :date: _DAY 110_
+
+- :calendar: 12-11-2022 SATURDAY
+
+* [x] Check If an Array Is Sorted Or not using recursion
+* [x] Sum of an Array using recursion
+* [x] Linear Search in an Array using recursion
+* [x] Binary Search in an  Array using recursion
+* [x] Reverse a String using recursion
+* [x] Check Palindrome
+* [x] power  function
+* [x] Bubble Sort using Recursion
+
+![110](https://user-images.githubusercontent.com/106388215/201485573-e5022994-ef02-4d61-bc86-876a5415fb5a.png)
+
