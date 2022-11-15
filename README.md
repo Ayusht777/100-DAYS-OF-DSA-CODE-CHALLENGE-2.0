@@ -180,4 +180,28 @@ ________
 ![111](https://user-images.githubusercontent.com/106388215/201536463-cdc86797-3cd2-47a8-bf07-1d352fabe634.png)
 
 
+### :date: _DAY 112_
+
+- :calendar: 14-11-2022 MONDAY
+
+* [x] 78. Subsets
+* [x] Subsequences of String
+
+
+![112](https://user-images.githubusercontent.com/106388215/201988676-58913e5b-ced8-4ddb-bcf2-b5b9716c2dd9.png)
+
+### :date: _DAY 113_
+
+- :calendar: 15-11-2022 TUESDAY
+
+* [x] 17. Letter Combinations of a Phone Number
+
+* [x] 46. Permutations
+
+* [x] Rat in a Maze Problem - I
+
+![113](https://user-images.githubusercontent.com/106388215/201988653-fa4ee3cd-6287-4594-8a94-55dc18ad9236.png)
+
+
+
 
