@@ -2,7 +2,6 @@
 using namespace std;
 //SinglyLinedklist
 
-
 class Node{
 
     public:
@@ -10,7 +9,7 @@ class Node{
     int data;
     Node *next ; //here we are creating pointer of node data tyep which will store the address of next node 
  
- 
+  
  //let create a constructor to store data
 ///constructor
     Node(int data){
