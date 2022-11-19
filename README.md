@@ -222,6 +222,16 @@ ________
 ![115](https://user-images.githubusercontent.com/106388215/202519041-219a8dd4-316c-4941-bac2-b49befcd13bd.png)
 
 
+### :date: _DAY 116_
+
+- :calendar: 18-11-2022 FRIDAY
+
+* [x] Doubly Linkedklist
+* [x] Circular Linkedklist
+* [x] Doubly Circular Linked List
+
+![116](https://user-images.githubusercontent.com/106388215/202775656-55fe3363-4012-44ef-852c-64577d26e9b5.png)
+
 
 
 
