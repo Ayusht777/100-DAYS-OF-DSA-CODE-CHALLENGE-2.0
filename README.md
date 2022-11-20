@@ -233,5 +233,17 @@ ________
 ![116](https://user-images.githubusercontent.com/106388215/202775656-55fe3363-4012-44ef-852c-64577d26e9b5.png)
 
 
+### :date: _DAY 117_
+
+- :calendar: 19-11-2022 SATURDAY
+
+* [x] Reverse Linked List using Iteration
+* [x] Reverse Linked List using Recursively Method-1
+* [x] Reverse Linked List using Recursively Method-2
+* [x] Reverse a Doubly Linked List using Iteration
+* [x] Middle Of Linked List Method -1
+* [x] Middle Of Linked List Method -2
+
+![117](https://user-images.githubusercontent.com/106388215/202863605-97f9bf71-68e4-442b-8ad6-32e7fcfe28db.png)
 
 
