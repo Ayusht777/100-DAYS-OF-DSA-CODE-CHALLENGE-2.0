@@ -247,3 +247,13 @@ ________
 ![117](https://user-images.githubusercontent.com/106388215/202863605-97f9bf71-68e4-442b-8ad6-32e7fcfe28db.png)
 
 
+### :date: _DAY 118_
+
+- :calendar: 20-11-2022 Sunday
+
+* [x] Reverse List In K Groups 
+* [x] Check if Linkedlist is circular or not
+* [x] Detect and Remove Loop (2-Methods)
+
+![118](https://user-images.githubusercontent.com/106388215/202916888-05f4d062-3e11-443f-9c3d-10685ed30b12.gif)
+
