@@ -257,3 +257,16 @@ ________
 
 ![118](https://user-images.githubusercontent.com/106388215/202916888-05f4d062-3e11-443f-9c3d-10685ed30b12.gif)
 
+
+
+### :date: _DAY 119_
+
+- :calendar: 21-11-2022 Monday
+
+* [x] Is it a Circular Linked List? 
+* [x] Remove Duplicates From Sorted List 
+* [x] Remove Duplicates From an Unsorted Linked List 
+* [x] Sort linked list of 0s 1s 2s 
+
+![119](https://user-images.githubusercontent.com/106388215/203123216-49193978-61e9-4481-bf8e-ca7516f2174f.png)
+
