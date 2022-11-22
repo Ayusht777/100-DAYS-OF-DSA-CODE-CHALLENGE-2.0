@@ -270,3 +270,13 @@ ________
 
 ![119](https://user-images.githubusercontent.com/106388215/203123216-49193978-61e9-4481-bf8e-ca7516f2174f.png)
 
+### :date: _DAY 120_
+
+- :calendar: 22-11-2022 Tuesday
+
+* [x] Merge Two Sorted Linked Lists 
+* [x] Check if Linked List is Palindrome
+* [x] Add two numbers represented by linked lists 
+
+![120](https://user-images.githubusercontent.com/106388215/203380657-1c8141d5-863d-44ca-bb6f-9a416af7cc3a.png)
+
