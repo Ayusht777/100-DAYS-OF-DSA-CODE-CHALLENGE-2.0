@@ -280,3 +280,11 @@ ________
 
 ![120](https://user-images.githubusercontent.com/106388215/203380657-1c8141d5-863d-44ca-bb6f-9a416af7cc3a.png)
 
+### :date: _DAY 121_
+
+- :calendar: 23-11-2022 Wenesday
+
+* [x] Clone a linked list with next and random pointer
+* [x] Merge Sort Linked List 
+
+![121](https://user-images.githubusercontent.com/106388215/203620794-e4454533-9e4c-4454-b448-3716637fb741.png)
