@@ -288,3 +288,13 @@ ________
 * [x] Merge Sort Linked List 
 
 ![121](https://user-images.githubusercontent.com/106388215/203620794-e4454533-9e4c-4454-b448-3716637fb741.png)
+
+### :date: _DAY 122_
+
+- :calendar: 24-11-2022 Thrusday
+
+* [x] Implementation of stack using array
+* [x] Implementation of stack using linkedlist
+* [x] Two Stacks 
+
+![122](https://user-images.githubusercontent.com/106388215/203844705-b702d6f5-c347-4dff-8525-8a086a16ee0e.png)
