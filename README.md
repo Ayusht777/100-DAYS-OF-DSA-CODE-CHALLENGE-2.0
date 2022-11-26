@@ -298,3 +298,14 @@ ________
 * [x] Two Stacks 
 
 ![122](https://user-images.githubusercontent.com/106388215/203844705-b702d6f5-c347-4dff-8525-8a086a16ee0e.png)
+
+### :date: _DAY 123_
+
+- :calendar: 25-11-2022 Friday
+
+* [x] Reverse a string using Stack
+* [x] Delete middle element from stack 
+* [x] Valid Parentheses
+* [x] Insert An Element At Its Bottom In A Given Stack 
+
+![123](https://user-images.githubusercontent.com/106388215/204034691-64a12a90-3a30-4657-801a-d94060dd8f18.png)
