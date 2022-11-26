@@ -309,3 +309,18 @@ ________
 * [x] Insert An Element At Its Bottom In A Given Stack 
 
 ![123](https://user-images.githubusercontent.com/106388215/204034691-64a12a90-3a30-4657-801a-d94060dd8f18.png)
+
+### :date: _DAY 124_
+
+- :calendar: 26-11-2022 Saturday
+
+* [x] Reverse Stack Using Recursion
+* [x] Sort a Stack
+* [x] Redundant Brackets 
+* [x] Minimum Cost To Make String Valid 
+* [x] Next Smaller Element
+* [x] 84. Largest Rectangle in Histogram
+
+![124](https://user-images.githubusercontent.com/106388215/204102637-b8e3d857-d9c7-4399-8a20-635a690a814c.png)
+
+
