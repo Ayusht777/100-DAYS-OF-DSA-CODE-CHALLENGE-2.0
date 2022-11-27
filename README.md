@@ -324,3 +324,13 @@ ________
 ![124](https://user-images.githubusercontent.com/106388215/204102637-b8e3d857-d9c7-4399-8a20-635a690a814c.png)
 
 
+### :date: _DAY 125_
+
+- :calendar: 27-11-2022 Sunday
+
+* [x] The Celebrity Problem 
+* [x] Max rectangle
+
+![125](https://user-images.githubusercontent.com/106388215/204151808-6e57e021-023b-40e8-a02d-9ba520fe336e.png)
+
+
