@@ -333,4 +333,14 @@ ________
 
 ![125](https://user-images.githubusercontent.com/106388215/204151808-6e57e021-023b-40e8-a02d-9ba520fe336e.png)
 
+### :date: _DAY 126_
+
+- :calendar: 28-11-2022 Monday
+
+* [x] N Stacks In An Array 
+* [x] Design a stack that supports getMin() in O(1) time and O(1) extra space 
+
+
+![126](https://user-images.githubusercontent.com/106388215/204331320-24e99c8c-1fbd-4f2e-bd88-36396c0e5f6a.png)
+
 
