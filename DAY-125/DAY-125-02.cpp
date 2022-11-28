@@ -4,9 +4,11 @@
 #include<vector>
 #include<limits.h>
 #define MAX 100
+// Max rectangle
+//https://practice.geeksforgeeks.org/problems/max-rectangle/1
 class Solution{
   private:
-  
+ 
   //logi largets are ain histigrram
   vector < int > nextSmallerElement(int *arr, int n) {
             stack < int > s;
