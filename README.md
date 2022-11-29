@@ -352,5 +352,6 @@ ________
 * [x] Implement a Circular Queue 
 * [x] Implement Deque 
 
-![127](https://user-images.githubusercontent.com/106388215/204598712-943f0633-8c39-4809-9608-d8529b9faa1d.png)
+![127](https://user-images.githubusercontent.com/106388215/204599889-7a117431-2ad4-4479-a9b4-aa7015d4668b.png)
+
 
