@@ -343,4 +343,14 @@ ________
 
 ![126](https://user-images.githubusercontent.com/106388215/204331320-24e99c8c-1fbd-4f2e-bd88-36396c0e5f6a.png)
 
+### :date: _DAY 127_
+
+- :calendar: 29-11-2022 Tuesday
+
+* [x] Implementation Queue using Array
+* [x] Implement a Queue Linkedlist
+* [x] Implement a Circular Queue 
+* [x] Implement Deque 
+
+![127](https://user-images.githubusercontent.com/106388215/204598712-943f0633-8c39-4809-9608-d8529b9faa1d.png)
 
