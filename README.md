@@ -366,3 +366,15 @@ ________
 * [x] Circular tour
 
 ![128](https://user-images.githubusercontent.com/106388215/204864056-c7f52dd6-a75b-46cd-ac82-eb5dbfe5bca0.png)
+
+### :date: _DAY 129_
+
+- :calendar: 01-12-2022 Thrusday
+
+* [x] 225. Implement Stack using Queues
+* [x] Implement Stack using Only One Queues
+* [x] Interleave The First Half Of The Queue With The Second Half 
+* [x] implement k Queues in a single array
+* [x] Sum of minimum and maximum elements of all sub-arrays of size k.
+
+![129](https://user-images.githubusercontent.com/106388215/205113466-23845d95-90d8-49c3-bd36-282b8f873d40.png)
