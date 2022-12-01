@@ -355,3 +355,14 @@ ________
 ![127](https://user-images.githubusercontent.com/106388215/204599889-7a117431-2ad4-4479-a9b4-aa7015d4668b.png)
 
 
+### :date: _DAY 128_
+
+- :calendar: 30-11-2022 Wednesday
+
+* [x] Queue Reversal
+* [x] First negative integer in every window of size k
+* [x] Reverse First K elements of Queue
+* [x] First non-repeating character in a stream
+* [x] Circular tour
+
+![128](https://user-images.githubusercontent.com/106388215/204864056-c7f52dd6-a75b-46cd-ac82-eb5dbfe5bca0.png)
