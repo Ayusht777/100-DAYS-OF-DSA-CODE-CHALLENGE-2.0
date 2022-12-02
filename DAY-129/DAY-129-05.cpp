@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std;
-//implement k Queues in a single array?
+//implement k Queues in a single array
 class kqueue{
   
      int n;

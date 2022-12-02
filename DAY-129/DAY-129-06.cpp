@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std;
 
-//Sum of minimum and maximum elements of all subarrays of size k.
+//Sum of minimum and maximum elements of all subarrays of size k
 //https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
 
 
