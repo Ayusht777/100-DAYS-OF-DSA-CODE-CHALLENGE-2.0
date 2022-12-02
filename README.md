@@ -378,3 +378,16 @@ ________
 * [x] Sum of minimum and maximum elements of all sub-arrays of size k.
 
 ![129](https://user-images.githubusercontent.com/106388215/205113466-23845d95-90d8-49c3-bd36-282b8f873d40.png)
+
+
+### :date: _DAY 130_
+
+- :calendar: 02-12-2022 Friday
+
+* [x] implantation of  binary tree
+* [x] Level Order Traversal 
+* [x] Reverse Level Order Traversal 
+* [x] Inorder , Preorder , Postorder Traversal
+
+![130](https://user-images.githubusercontent.com/106388215/205358128-723c32b8-6298-4c6b-b585-a3568fdae1b5.png)
+
