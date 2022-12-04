@@ -391,3 +391,16 @@ ________
 
 ![130](https://user-images.githubusercontent.com/106388215/205358128-723c32b8-6298-4c6b-b585-a3568fdae1b5.png)
 
+### :date: _DAY 131_
+
+- :calendar: 03-12-2022 Saturday
+
+* [x] Count Leaf Nodes 
+* [x] Height of Binary Tree
+* [x] Diameter of a Binary Tree
+* [x] Check for Balanced Tree
+* [x] 100. Same Tree
+* [x] Sum Tree
+
+![131](https://user-images.githubusercontent.com/106388215/205455582-2b403ecc-71f2-414d-aa61-6136b9467a88.png)
+
