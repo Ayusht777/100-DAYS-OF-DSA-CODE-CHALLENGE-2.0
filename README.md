@@ -404,3 +404,37 @@ ________
 
 ![131](https://user-images.githubusercontent.com/106388215/205455582-2b403ecc-71f2-414d-aa61-6136b9467a88.png)
 
+### :date: _DAY 132_
+
+- :calendar: 04-12-2022 Sunday
+
+* [x] ZigZag Tree Traversal
+* [x] Boundary Traversal of binary tree
+* [x] Vertical Traversal of Binary Tree
+
+
+![132](https://user-images.githubusercontent.com/106388215/205504080-94892b26-fb63-4f04-ad05-23ccf8710f70.png)
+
+
+
+### :date: _DAY 133_
+
+- :calendar: 05-12-2022 Monday
+
+* [x] Top View of Binary Tree
+* [x] Bottom View of Binary Tree
+* [x] Left View of Binary Tree
+
+![133](https://user-images.githubusercontent.com/106388215/205504309-2ced0bc0-8c8b-416b-a428-e0f73d5ebb7a.png)
+
+### :date: _DAY 134_
+
+- :calendar: 06-12-2022 Tuesday
+
+* [x] Right View of Binary Tree
+* [x] Sum of the Longest Bloodline of a Tree 
+
+![134](https://user-images.githubusercontent.com/106388215/205504470-9a38e9b3-8b0a-47b2-b3ba-f71ad67a1cd0.png)
+
+
+
