@@ -456,5 +456,14 @@ ________
 
 ![136](https://user-images.githubusercontent.com/106388215/206516537-24de4a80-5f8c-4c12-b1ec-9f7ec25ae550.png)
 
+### :date: _DAY 137_
+
+- :calendar: 09-12-2022 Friday
+
+* [x] Burning Tree
+* [x] Morris traversal for Inorder
+* [x] Flatten binary tree to linked list
+
+![137](https://user-images.githubusercontent.com/106388215/206754373-6e6fdaff-9a91-477e-8b1c-dbf2a5c0a935.png)
 
 
