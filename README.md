@@ -466,4 +466,14 @@ ________
 
 ![137](https://user-images.githubusercontent.com/106388215/206754373-6e6fdaff-9a91-477e-8b1c-dbf2a5c0a935.png)
 
+### :date: _DAY 138_
+
+- :calendar: 10-12-2022 Saturday
+
+* [x] Binary Search Tree Implementation (Insertion)
+* [x] 700. Search in a Binary Search Tree (Iterative & Recursive )
+
+![138](https://user-images.githubusercontent.com/106388215/206866170-78ae300c-abdc-40e0-b22d-779c463e1657.png)
+
+
 
