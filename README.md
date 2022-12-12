@@ -487,3 +487,19 @@ ________
 
 ![139](https://user-images.githubusercontent.com/106388215/206919327-602acf6e-e5df-4199-8125-5da2cebacba2.png)
 
+
+
+### :date: _DAY 140_
+
+- :calendar: 12-12-2022 Monday
+
+* [x] Check for BST
+* [x] Find K-th smallest Element in BST 
+* [x] Kth largest element in BST
+* [x] LCA of Two Nodes In A BST 
+* [x] Find a pair with given target in BST 
+* [x] Flatten BST To A Sorted List 
+* [x] Normal BST To Balanced BST 
+* [x] Preorder traversal of a BST 
+
+![140](https://user-images.githubusercontent.com/106388215/207116820-a49b67a9-0692-4a86-b1a4-089a2168289f.png)
