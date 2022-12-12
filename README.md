@@ -476,4 +476,14 @@ ________
 ![138](https://user-images.githubusercontent.com/106388215/206866170-78ae300c-abdc-40e0-b22d-779c463e1657.png)
 
 
+### :date: _DAY 139_
+
+- :calendar: 11-12-2022 Sunday
+
+* [x] Minimum element in BST
+* [x] Maximum element in BST
+* [x] Predecessor And Successor In BST  (Iterative && Recursive)
+* [x] Deletion in Binary search Tree 
+
+![139](https://user-images.githubusercontent.com/106388215/206919327-602acf6e-e5df-4199-8125-5da2cebacba2.png)
 
