@@ -2,7 +2,7 @@
 using namespace std;
 
 //Minimum element in BST
-//Find K-th smallest Element in BST
+
 //https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
 struct Node {
     int data;
