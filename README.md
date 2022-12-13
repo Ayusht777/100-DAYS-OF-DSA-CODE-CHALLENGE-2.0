@@ -503,3 +503,13 @@ ________
 * [x] Preorder traversal of a BST 
 
 ![140](https://user-images.githubusercontent.com/106388215/207116820-a49b67a9-0692-4a86-b1a4-089a2168289f.png)
+
+
+### :date: _DAY 141_
+
+- :calendar: 13-12-2022 Tuesday
+
+* [x] Merge Two BSTs 
+* [x] Largest BST 
+
+![141](https://user-images.githubusercontent.com/106388215/207396156-a0d525df-1eb4-401a-989c-22bb78d1519d.png)
