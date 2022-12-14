@@ -513,3 +513,19 @@ ________
 * [x] Largest BST 
 
 ![141](https://user-images.githubusercontent.com/106388215/207396156-a0d525df-1eb4-401a-989c-22bb78d1519d.png)
+
+### :date: _DAY 142_
+
+- :calendar: 14-12-2022 Wenesday
+
+* [x] Implementation of heap and its function insertion deletion
+* [x] Build max heap ( heapify )
+* [x] Build Heap 
+* [x] Build Min Heap
+* [x] Heap Sort
+* [x] Priority Queue
+* [x] Kth smallest element
+* [x] Kth largest element 
+
+![142](https://user-images.githubusercontent.com/106388215/207665213-0452d78e-6739-4832-9e07-4c6ba97607e3.png)
+
