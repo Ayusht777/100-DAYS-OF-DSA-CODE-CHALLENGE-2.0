@@ -540,3 +540,12 @@ ________
 
 ![143](https://user-images.githubusercontent.com/106388215/207925381-c7e640bc-5ffc-4d8e-9879-7518bd94f37d.png)
 
+### :date: _DAY 144_
+
+- :calendar: 16-12-2022 Friday
+
+* [x] K-th Largest Sum Subarray ( Brute-Force && Heap )
+* [x] Merge K Sorted Arrays 
+* [x] Merge k sorted lists 
+
+![144](https://user-images.githubusercontent.com/106388215/208127223-bd6f929a-69fc-4825-9ff3-b5340e3269c2.png)
