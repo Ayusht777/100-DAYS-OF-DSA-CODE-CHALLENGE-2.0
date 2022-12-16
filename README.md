@@ -529,3 +529,14 @@ ________
 
 ![142](https://user-images.githubusercontent.com/106388215/207665213-0452d78e-6739-4832-9e07-4c6ba97607e3.png)
 
+### :date: _DAY 143_
+
+- :calendar: 15-12-2022 Thrusday
+
+* [x] Is Binary Tree Heap
+* [x] Merge two binary Max heaps
+* [x] Minimum Cost of ropes
+* [x] Convert BST to Min Heap 
+
+![143](https://user-images.githubusercontent.com/106388215/207925381-c7e640bc-5ffc-4d8e-9879-7518bd94f37d.png)
+
