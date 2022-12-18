@@ -558,3 +558,15 @@ ________
 * [x] Median in a stream 
 
 ![145](https://user-images.githubusercontent.com/106388215/208253575-ff808507-28de-4d42-90ce-24650895861b.png)
+
+
+### :date: _DAY 146_
+
+- :calendar: 17-12-2022 Saturday
+
+* [x] HashMaps  (Order Maps && Unordered Maps )
+* [x] Maximum Frequency Number 
+
+![146](https://user-images.githubusercontent.com/106388215/208309122-fe5620dd-cd34-49ad-b8fa-b8e0061d0067.png)
+
+
