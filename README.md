@@ -549,3 +549,12 @@ ________
 * [x] Merge k sorted lists 
 
 ![144](https://user-images.githubusercontent.com/106388215/208127223-bd6f929a-69fc-4825-9ff3-b5340e3269c2.png)
+
+### :date: _DAY 145_
+
+- :calendar: 17-12-2022 Saturday
+
+* [x] Smallest Range From K Sorted List 
+* [x] Median in a stream 
+
+![145](https://user-images.githubusercontent.com/106388215/208253575-ff808507-28de-4d42-90ce-24650895861b.png)
