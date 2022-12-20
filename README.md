@@ -570,3 +570,14 @@ ________
 ![146](https://user-images.githubusercontent.com/106388215/208309122-fe5620dd-cd34-49ad-b8fa-b8e0061d0067.png)
 
 
+
+### :date: _DAY 147_
+
+- :calendar: 18-12-2022 Monday
+
+* [x] Bucket Array (Theory for Hash-maps)
+* [x] Implement  Trie
+* [x] longest Common Prefix 
+
+![147](https://user-images.githubusercontent.com/106388215/208483609-2406b39c-03c5-44ed-9e70-102a45dd78ef.png)
+
