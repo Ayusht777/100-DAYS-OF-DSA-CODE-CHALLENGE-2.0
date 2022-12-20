@@ -581,3 +581,9 @@ ________
 
 ![147](https://user-images.githubusercontent.com/106388215/208483609-2406b39c-03c5-44ed-9e70-102a45dd78ef.png)
 
+### :date: _DAY 148_
+
+* [x] Implement a phone directory 
+
+![148](https://user-images.githubusercontent.com/106388215/208696753-082c6a31-dfeb-4b14-857b-23ebf6816d92.png)
+
