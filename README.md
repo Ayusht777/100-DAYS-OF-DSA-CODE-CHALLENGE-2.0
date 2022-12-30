@@ -593,3 +593,9 @@ ________
 * [x] Rat In A Maze
 
 ![149](https://user-images.githubusercontent.com/106388215/208931294-92a7d76a-e9d6-4e61-a826-92dd155bb791.png)
+
+### :date: _DAY 150_
+
+* [x] N Queens
+
+![150](https://user-images.githubusercontent.com/106388215/210095465-18e0c118-697b-4e82-857a-3e800e2d6e27.png)
