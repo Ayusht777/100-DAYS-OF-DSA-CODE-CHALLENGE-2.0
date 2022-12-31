@@ -583,6 +583,8 @@ ________
 
 ### :date: _DAY 148_
 
+- :calendar: 19-12-2022 Tuesday
+
 * [x] Implement a phone directory 
 
 ![148](https://user-images.githubusercontent.com/106388215/208696753-082c6a31-dfeb-4b14-857b-23ebf6816d92.png)
@@ -590,6 +592,18 @@ ________
 
 ### :date: _DAY 149_
 
+- :calendar: 30-12-2022 Friday
+
 * [x] Rat In A Maze
 
 ![149](https://user-images.githubusercontent.com/106388215/208931294-92a7d76a-e9d6-4e61-a826-92dd155bb791.png)
+
+
+### :date: _DAY 150_
+
+- :calendar: 31-12-2022 Saturday
+
+* [x] Sudoku Solver
+* [x] Graph : adjacent to list
+* [x] Creating and Printing 
+
