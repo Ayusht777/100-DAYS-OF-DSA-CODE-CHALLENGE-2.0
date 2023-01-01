@@ -605,5 +605,12 @@ ________
 ![150](https://user-images.githubusercontent.com/106388215/210095465-18e0c118-697b-4e82-857a-3e800e2d6e27.png)
 
 
+### :date: _DAY 151_
 
+- :calendar: 31-12-2022 Saturday
 
+* [x] Sudoku Solver
+* [x] Graph : adjacent to list
+* [x] Creating and Printing 
+
+![151](https://user-images.githubusercontent.com/106388215/210147974-3d9f40ce-a7c2-4c3e-afc8-e02edb80af0b.png)
