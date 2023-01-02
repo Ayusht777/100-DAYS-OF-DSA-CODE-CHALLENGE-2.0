@@ -614,3 +614,25 @@ ________
 * [x] Creating and Printing 
 
 ![151](https://user-images.githubusercontent.com/106388215/210147974-3d9f40ce-a7c2-4c3e-afc8-e02edb80af0b.png)
+
+### :date: _DAY 152_
+
+- :calendar: 01-01-2023 Sunday
+
+* [x] BFS in Graph 
+
+![152](https://user-images.githubusercontent.com/106388215/210258872-eabbf930-4eb2-416c-a180-81468dd3e5da.png)
+
+### :date: _DAY 153_
+
+- :calendar: 02-01-2023 Monday
+
+* [x] DFS Traversal 
+* [x] Cycle Detection In Undirected Graph - Using BFS
+* [x] Cycle Detection In Undirected Graph - Using DFS
+* [x] Detect Cycle In A Directed Graph 
+
+![153](https://user-images.githubusercontent.com/106388215/210259310-7b807861-ab3a-4f10-9069-291eb322b71c.png)
+
+
+
