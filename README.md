@@ -634,5 +634,15 @@ ________
 
 ![153](https://user-images.githubusercontent.com/106388215/210259310-7b807861-ab3a-4f10-9069-291eb322b71c.png)
 
+### :date: _DAY 154_
+
+- :calendar: 03-01-2023 Tuesday
+
+* [x] Topological Sort Using -DFS
+* [x] Topological Sort Using - BFS/Kahn'S Algo
+* [x] Detect Cycle In A Directed Graph  Using - Kahn's Algo
+* [x] Shortest path in an unweighted graph 
+
+![154](https://user-images.githubusercontent.com/106388215/210408866-1d50ad30-71bd-44ac-825e-71128c4e51dc.png)
 
 
