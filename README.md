@@ -645,4 +645,14 @@ ________
 
 ![154](https://user-images.githubusercontent.com/106388215/210408866-1d50ad30-71bd-44ac-825e-71128c4e51dc.png)
 
+### :date: _DAY 154_
+
+- :calendar: 04-01-2023 Wenesday
+
+* [x] Shortest path in Directed Acyclic Graph
+
+![155](https://user-images.githubusercontent.com/106388215/210609397-561019e2-ef0d-445d-9212-0da8aa7427ab.png)
+
+
+
 
