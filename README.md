@@ -645,7 +645,7 @@ ________
 
 ![154](https://user-images.githubusercontent.com/106388215/210408866-1d50ad30-71bd-44ac-825e-71128c4e51dc.png)
 
-### :date: _DAY 154_
+### :date: _DAY 155_
 
 - :calendar: 04-01-2023 Wenesday
 
@@ -653,6 +653,12 @@ ________
 
 ![155](https://user-images.githubusercontent.com/106388215/210609397-561019e2-ef0d-445d-9212-0da8aa7427ab.png)
 
+### :date: _DAY 156_
 
+- :calendar: 05-01-2023 Thrusday
+
+* [x] Implementing Dijkstra Algorithm
+
+![156](https://user-images.githubusercontent.com/106388215/210824909-69cd93ef-cd07-4180-b5e2-1d0dbfc89384.png)
 
 
