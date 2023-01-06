@@ -661,4 +661,14 @@ ________
 
 ![156](https://user-images.githubusercontent.com/106388215/210824909-69cd93ef-cd07-4180-b5e2-1d0dbfc89384.png)
 
+### :date: _DAY 157_
+
+- :calendar: 06-01-2023 Friday
+
+* [x] Prim's MST 
+* [x] Minimum Spanning Tree Using Kruskals 
+
+![157](https://user-images.githubusercontent.com/106388215/211053928-794305ca-b2df-4d70-92e5-f3eaaf4e8bf1.png)
+
+
 
