@@ -670,5 +670,13 @@ ________
 
 ![157](https://user-images.githubusercontent.com/106388215/211053928-794305ca-b2df-4d70-92e5-f3eaaf4e8bf1.png)
 
+### :date: _DAY 158_
+
+- :calendar: 07-01-2023 Saturday
+
+* [x] Bridges In A Graph 
+* [x] Articulation Point - I
+
+![158](https://user-images.githubusercontent.com/106388215/211162353-5dd63a02-af73-4758-ab6b-4bec570bf118.png)
 
 
