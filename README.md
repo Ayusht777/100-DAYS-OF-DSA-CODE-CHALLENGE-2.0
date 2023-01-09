@@ -692,3 +692,9 @@ ________
 
 - :calendar: 09-01-2023 Monday
 
+* [x] Nth Fibonacci Number -4 ways
+* [x] 746. Min Cost Climbing Stairs -4 ways
+
+![160](https://user-images.githubusercontent.com/106388215/211355759-94b69467-06a9-497e-9e75-221b5cbf0082.png)
+
+
