@@ -679,4 +679,16 @@ ________
 
 ![158](https://user-images.githubusercontent.com/106388215/211162353-5dd63a02-af73-4758-ab6b-4bec570bf118.png)
 
+### :date: _DAY 159_
+
+- :calendar: 08-01-2023 Sunday
+
+* [x] Count Strongly Connected Components (Kosaraju’s Algorithm) 
+* [x] Bellman Ford
+
+![159](https://user-images.githubusercontent.com/106388215/211206036-ab892ac8-d0b3-4e15-b48b-1e455db57df7.png)
+
+### :date: _DAY 160_
+
+- :calendar: 09-01-2023 Monday
 
