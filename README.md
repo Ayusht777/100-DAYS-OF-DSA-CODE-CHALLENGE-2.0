@@ -697,4 +697,12 @@ ________
 
 ![160](https://user-images.githubusercontent.com/106388215/211355759-94b69467-06a9-497e-9e75-221b5cbf0082.png)
 
+### :date: _DAY 161_
+
+- :calendar: 10-01-2023 Tuesday
+
+* [x] Minimum Elements / Number of Coins
+* [x] Maximum sum of non-adjacent elements / Stickler Thief
+
+![161](https://user-images.githubusercontent.com/106388215/211602189-37f3d4d1-f088-4bb0-8859-3b5f21f4f311.png)
 
