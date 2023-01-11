@@ -706,3 +706,11 @@ ________
 
 ![161](https://user-images.githubusercontent.com/106388215/211602189-37f3d4d1-f088-4bb0-8859-3b5f21f4f311.png)
 
+### :date: _DAY 162_
+
+- :calendar: 11-01-2023 Wenesday
+
+* [x] House Robber II 
+* [x] Cut Into Segments
+
+![162](https://user-images.githubusercontent.com/106388215/211857907-2b027de8-adee-48a9-a551-a87189209c3f.png)
