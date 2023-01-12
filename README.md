@@ -714,3 +714,12 @@ ________
 * [x] Cut Into Segments
 
 ![162](https://user-images.githubusercontent.com/106388215/211857907-2b027de8-adee-48a9-a551-a87189209c3f.png)
+
+### :date: _DAY 163_
+
+- :calendar: 12-01-2023 Thrusday
+
+* [x] Count derangement
+* [x] Ninja And The Fence
+
+![163](https://user-images.githubusercontent.com/106388215/212117705-04edfbe4-99c4-4f1c-9b41-35071a368381.png)
