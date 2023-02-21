@@ -723,3 +723,10 @@ ________
 * [x] Ninja And The Fence
 
 ![163](https://user-images.githubusercontent.com/106388215/212117705-04edfbe4-99c4-4f1c-9b41-35071a368381.png)
+
+### :date: _DAY 164_
+
+- :calendar: 20-01-2023 Monday
+
+* [x] 0 1 Knapsack 
+![164](https://user-images.githubusercontent.com/106388215/220163528-8c9b8912-da11-4eea-96bb-c27cfd0ca1cf.png)
