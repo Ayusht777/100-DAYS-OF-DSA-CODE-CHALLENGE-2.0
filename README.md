@@ -730,3 +730,14 @@ ________
 
 * [x] 0 1 Knapsack 
 ![164](https://user-images.githubusercontent.com/106388215/220163528-8c9b8912-da11-4eea-96bb-c27cfd0ca1cf.png)
+
+### :date: _DAY 165_
+
+- :calendar: 21-01-2023 Tuesday
+
+* [x] Combination Sum IV
+* [x] Get Minimum Squares
+* [x] Ninja's Trip 
+
+![165](https://user-images.githubusercontent.com/106388215/220398091-56fae186-e0d0-4e16-b631-060b45f0e5c4.png)
+
