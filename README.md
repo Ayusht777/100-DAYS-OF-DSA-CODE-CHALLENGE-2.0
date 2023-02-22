@@ -741,3 +741,11 @@ ________
 
 ![165](https://user-images.githubusercontent.com/106388215/220398091-56fae186-e0d0-4e16-b631-060b45f0e5c4.png)
 
+### :date: _DAY 166_
+
+- :calendar: 22-01-2023 Wenesday
+
+* [x] Largest square formed in a matrix
+* [x] 1039. Minimum Score Triangulation of Polygon
+
+![166](https://user-images.githubusercontent.com/106388215/220706409-881709f9-3834-4123-b59e-10828827d734.png)
