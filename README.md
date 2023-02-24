@@ -761,3 +761,16 @@ ________
 * [x] 1388. Pizza With 3n Slices
 
 ![167](https://user-images.githubusercontent.com/106388215/220977138-d920df2f-f1c8-44ca-8573-3b3209a5541f.png)
+
+### :date: _DAY 168_
+
+- :calendar: 24-01-2023 Friday
+
+* [x] Dice throw
+* [x] Partition Equal Subset Sum
+* [x] 801. Minimum Swaps To Make Sequences Increasing
+* [x] Longest Arithmetic Progression
+* [x] 1218. Longest Arithmetic Subsequence of Given Difference
+* [x] 96. Unique Binary Search Trees
+
+![168](https://user-images.githubusercontent.com/106388215/221225081-a002e2e8-7895-4822-a41d-24a1b2907a8d.png)
