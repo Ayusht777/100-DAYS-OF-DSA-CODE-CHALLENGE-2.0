@@ -749,3 +749,15 @@ ________
 * [x] 1039. Minimum Score Triangulation of Polygon
 
 ![166](https://user-images.githubusercontent.com/106388215/220706409-881709f9-3834-4123-b59e-10828827d734.png)
+
+### :date: _DAY 167_
+
+- :calendar: 23-01-2023 Thrusday
+
+* [x] 1824. Minimum Sideway Jumps
+* [x] 1402. Reducing Dishes
+* [x] Longest Increasing Subsequence
+* [x] 1691. Maximum Height by Stacking Cuboids
+* [x] 1388. Pizza With 3n Slices
+
+![167](https://user-images.githubusercontent.com/106388215/220977138-d920df2f-f1c8-44ca-8573-3b3209a5541f.png)
