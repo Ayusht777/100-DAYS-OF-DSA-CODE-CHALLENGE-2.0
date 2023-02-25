@@ -774,3 +774,13 @@ ________
 * [x] 96. Unique Binary Search Trees
 
 ![168](https://user-images.githubusercontent.com/106388215/221225081-a002e2e8-7895-4822-a41d-24a1b2907a8d.png)
+
+### :date: _DAY 169_
+
+- :calendar: 25-01-2023 Saturday
+
+* [x] 375. Guess Number Higher or Lower II
+* [x] 1130. Minimum Cost Tree From Leaf Values
+
+![169](https://user-images.githubusercontent.com/106388215/221368355-449a4b28-608c-48d2-88a8-2694338f4778.png)
+
