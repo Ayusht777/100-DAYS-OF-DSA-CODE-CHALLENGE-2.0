@@ -795,3 +795,20 @@ ________
 * [x] 714. Best Time to Buy and Sell Stock with Transaction Fee
 
 ![170](https://user-images.githubusercontent.com/106388215/221427817-b47d2a11-9883-4eeb-8e3f-79e6b9bba729.png)
+
+### :date: _DAY 171_
+
+- :calendar: 27-01-2023 Monday
+
+* [x] 1143. Longest Common Subsequence
+* [x] 516. Longest Palindromic Subsequence
+* [x] 72. Edit Distance
+* [x] 85. Maximal Rectangle
+* [x] 44. Wildcard Matching
+* [x] N meetings in one room
+* [x] Shop in Candy Store
+* [x] Check if it is possible to survive on Island
+* [x] Reverse words in a given string
+
+![171](https://user-images.githubusercontent.com/106388215/221613044-0718f5af-1138-48e1-bccc-5311c8bd0277.png)
+
