@@ -812,3 +812,27 @@ ________
 
 ![171](https://user-images.githubusercontent.com/106388215/221613044-0718f5af-1138-48e1-bccc-5311c8bd0277.png)
 
+### :date: _DAY 172_
+
+- :calendar: 28-01-2023 Tuesday
+
+1. Introduction to HTML
+  * [x] Introduction to HTML
+  * [x] The Anatomy of HTML tag
+  * [x] Start Building HTML personal site
+  * [x] What is the HTML Boilerplate
+  * [x] How to structure Text in HTML
+  * [x] HTML lists
+  * [x] HTML Image Elements
+  * [x] HTML Links and Anchor Tags
+
+2. Intermediate HTML
+  * [x] HTML Tables
+  * [x] Using HTML tables for Layout
+  * [x] HTML Table Code Challenge
+  * [x] HTML Forms
+  * [x] Create a Feedback Form with user login
+  * [x] Publishing a website
+  
+  ![172](https://user-images.githubusercontent.com/106388215/221914765-1c5ca4c1-a798-4173-baeb-6bf858198481.png)
+
