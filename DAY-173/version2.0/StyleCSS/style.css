@@ -1,0 +1,56 @@
+/*this is css file it contains all information about website style*/
+body{
+    background-color: #E4F9F5;
+}
+hr{
+    
+    border-color: #40514E;
+    border-style: none;
+    border-top-style: dotted ;
+    border-width: 6px ;
+    
+    height: 0px;
+    width: 8.8%;
+}
+h1{
+    color:#11999E;
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: #40514E;
+    text-transform: capitalize;
+    text-shadow: .2px .2px 4.5px #30E3CA;
+}
+h2{
+    color:#11999E;
+}
+/*it will allow to select any particular element */
+.User_Img{
+    
+    border-radius: 20px;
+    border: 2px  solid  #40514E;
+    
+    
+
+}.User_Img:hover{
+    
+    border-radius: 10px;
+    border: 2px  solid  #E4F9F5;
+    
+    
+
+}
+#line1{
+    border-color: #11999E;
+    border-style: none;
+    border-top-style: dotted ;
+    border-width: 6px ;
+    
+    height: 0px;
+    width: 8.8%; 
+}
+p{
+   color: #40514E;
+}
+li{
+    color: #40514E;
+}
