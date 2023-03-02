@@ -850,4 +850,17 @@ ________
 
 ![173](https://user-images.githubusercontent.com/106388215/222175030-d1bb9ad7-bb09-496a-b110-625be83ec58e.png)
 
+### :date: _DAY 174_
+
+- :calendar: 02-03-2023 Thrusday
+
+*[x] Favicon
+*[x] The Box Model of Website Styling
+*[x] Display Property
+*[x] Static and Relative Positioning
+*[x] Absolute positioning
+*[x] The Dark Art of Centering Elements 
+*[x] Font Styling 
+
+![174](https://user-images.githubusercontent.com/106388215/222499134-46d72cb9-4b75-4459-a78e-0dd94585e86c.png)
 
