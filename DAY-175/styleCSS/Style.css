@@ -9,7 +9,7 @@
 body{
     background-color: #FFFFFF;
     margin: 0;
-    
+
     text-align: center;
 }
 .intro{
@@ -19,8 +19,8 @@ body{
     color: #48B198;
     font-family: newf,serif;
     font-size: 2.8125em;
-    
-    
+
+
     margin: 0 auto 0 auto;
     width: 600px;
     position: relative;
@@ -30,7 +30,7 @@ body{
     color: #48B198;
     font-family: newf2,serif;
     font-size: 2.8125em;
-    
+
     margin: 0 auto 0 auto;
     width: 600px;
     position: relative;
@@ -49,7 +49,7 @@ body{
     scale: 50%;
     position:relative;
     top:150px;
-    
+
 
 }
 
@@ -65,13 +65,13 @@ body{
 .middle-container{
     margin: 0 auto 0 auto;
     padding-top: 50px;
-   
+
     font-family: newf2,serif;
-    
+
 
 }
 #myimg{
-    
+
     width: 150px;
     height: 150px;
     border:4px solid;
@@ -98,14 +98,14 @@ p{
 
 .skill-row{
     width: 50%;
-    
+
     margin:100px auto 100px auto;
     text-align: left;
     line-height: 2;
     font-size:1.5rem;
     color: #48B198;
-    
-    
+
+
 
 
 }
@@ -115,39 +115,39 @@ p{
 }
 .code1{
     width: 25%;
-    
+
     border-radius: 100%;
     float: left;
     margin-right: 100px;
-   
-   
+
+
 
 }
 .code2{
     width: 25%;
-    
+
     border-radius: 100%;
     float: right;
     margin-left: 100px;
-   
-   
+
+
 
 }
 
 hr{
-    
+
     border: dotted  #F4F3F2 10px;
     border-bottom: none;
     width: 8%;
     margin: 10px auto 10px auto;
 
-    
+
 }
 
 .contact-me{
     width: 40%;
     margin: 0 auto 0 auto;
-    
+
 
 
 }
@@ -159,11 +159,11 @@ hr{
 #last_p{
     padding-top: 40px;
     padding-bottom: 40px;
-  
+
 }
 
 .btn {
-    
+
     -webkit-border-radius: 4;
     -moz-border-radius: 4;
     border-radius: 4px;
@@ -173,9 +173,9 @@ hr{
     background: #3FA28C;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    
+
   }
-  
+
   .btn:hover {
     background: #1b7f69;
     text-decoration: none;
@@ -187,17 +187,17 @@ hr{
     background-color: #C5DED7;
     width: 100%;
     height: 100px;
-    
+
  } 
 
 a{
-    
+
     margin-left: 10px;
     margin-right:20px ;
     color: #3FA28C;
     text-decoration: none;
 
-    
+
 }
 a:hover{
     color: #FFFFFF;
@@ -207,4 +207,5 @@ a:hover{
     font-size: 15px;
     color: #F4F3F2;
     padding-top: 50px;
+
 }
