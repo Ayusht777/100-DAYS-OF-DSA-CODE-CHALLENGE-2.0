@@ -18,7 +18,8 @@ body{
 #name{
     color: #48B198;
     font-family: newf,serif;
-    font-size: 45;
+    font-size: 2.8125em;
+    
     
     margin: 0 auto 0 auto;
     width: 600px;
@@ -28,7 +29,7 @@ body{
 #dis{
     color: #48B198;
     font-family: newf2,serif;
-    font-size: 20;
+    font-size: 2.8125em;
     
     margin: 0 auto 0 auto;
     width: 600px;
@@ -83,7 +84,7 @@ body{
 }
 #hello{
     color: #48B198;
-    font-size: 40px;
+    font-size:2.5em;
     position: relative;
     top:20px;
     text-align: center;
