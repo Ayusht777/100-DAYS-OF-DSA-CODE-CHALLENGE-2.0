@@ -874,3 +874,13 @@ ________
 * [x]  Final Walkthrough 
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/106388215/222783955-805cbbc6-7892-4814-ba5e-372e63e5cea0.png)
+
+### :date: _DAY 176_
+
+- :calendar: 04-03-2023 Saturday
+
+* [x] What is Bootstrap
+* [x] Web Design 101 - Wireframing
+* [x] The Bootstrap Navigation Bar
+
+![Screenshot (155)](https://user-images.githubusercontent.com/106388215/222912328-ccb4bfa0-2dca-43d5-8e5f-b0ad3505dd93.png)
