@@ -864,3 +864,13 @@ ________
 
 ![174](https://user-images.githubusercontent.com/106388215/222499134-46d72cb9-4b75-4459-a78e-0dd94585e86c.png)
 
+### :date: _DAY 175_
+
+- :calendar: 03-03-2023 Friday
+
+* [x]  CSS Font Property Challenge 
+* [x]  CSS Float and Clear
+* [x]  Stylised Personal Site
+* [x]  Final Walkthrough 
+
+![Screenshot (153)](https://user-images.githubusercontent.com/106388215/222783955-805cbbc6-7892-4814-ba5e-372e63e5cea0.png)
