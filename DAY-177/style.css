@@ -1,0 +1,74 @@
+@font-face {
+    font-family: newf2;
+    src: url(/DAY-177/Brandon_reg.otf);
+}
+
+*{
+    
+    font-family: newf2,sans-serif;
+}
+#title{
+    background-color: #fcec9a;
+    color: #457d00;
+    
+    
+    
+
+    
+}
+#size{
+    font-size: 6.4rem;
+    line-height: 1.8;
+    font-weight: bolder;
+   
+}
+
+
+nav{
+    background-color:#fea938;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+
+.container-fluid{
+    padding-left: 3% ;
+    padding-right: 3%;
+}
+.navb{
+    font-family: "Ubuntu";
+    font-size: 4.5rem;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    
+
+}
+
+.btn{
+   margin: 1% 3% 5% 3%;
+   width: 400px;
+
+   
+  
+}
+
+.tile-img{
+    
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+    transform: rotate(15deg );
+}
