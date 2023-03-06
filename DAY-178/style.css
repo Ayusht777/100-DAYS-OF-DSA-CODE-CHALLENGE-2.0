@@ -1,0 +1,209 @@
+@font-face {
+    font-family: newf2;
+    src: url(/DAY-178/Brandon_reg.otf);
+}
+
+*{
+    
+    font-family: newf2,sans-serif;
+    
+}
+
+#title{
+    background-color: #fcec9a;
+    color: #457d00;
+    
+    
+    
+
+    
+}
+#size{
+     font-size: 550%;
+     padding: 10% 10%;
+   
+}
+
+
+nav{
+    background-color:#fea938;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+
+.container-fluid{
+    padding-left: 3% ;
+    padding-right: 3%;
+}
+.navb{
+    font-family: "Ubuntu";
+    font-size: 4.5rem;
+    font-weight: bold;
+    padding-left:5px;
+    padding-right: 10px;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    
+
+}
+
+.bx{
+   margin: 1% 3% 5% 3%;
+   
+   min-height: 50px;
+   max-height: 80px;
+   min-width: 40%;
+   max-width: 50%;
+   
+
+   
+  
+}
+
+.tile-img{
+    
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+    transform: rotate(15deg );
+}
+#features{
+    padding: 5% ;
+    padding-top: 15%;
+    padding-bottom: 15%;
+   
+    background-color: #b0aaaa13;
+    
+   
+    
+
+}
+
+.feature-box{
+   
+    padding: 5%;
+   
+
+    
+}
+.tagline{
+    font-size: 1.8rem;
+    font-weight:1000;
+    line-height: 2;
+    text-align: center;
+    color:  #457d00;
+}
+.tageline-2{
+    color:  #c6c736; 
+    text-align: center;
+    
+    font-weight: 500;
+    
+}
+
+.fa-solid{
+    padding-left: 42%;
+    padding-bottom: 5%;
+    
+}
+
+.fa-lemon{
+  color: #FAFA33;
+}
+.fa-lemon:hover{
+    color: #F2E767 ;
+}
+.fa-truck{
+
+    color: #FC502A;
+
+}
+.fa-truck:hover{
+    color: #fc7743;
+}
+.fa-hand-holding-dollar{
+   color: #4CB050;
+}
+.fa-hand-holding-dollar:hover{
+    color: #5db960;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #fcec9a;
+    color: #457d00;
+    font-weight: lighter;
+    
+}
+.testimonials-img{
+    width: 100px;
+    height: 100px;
+    margin: 4% 4%;
+     
+}
+
+#Payment-Methods{
+    background-color: #fcec9a;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.id-1{
+    width: 100px;
+    height: 100px;
+    margin: 30px 30px 50px ;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+#pricing{
+    padding:5% 10% 10% 10%;
+    text-align: center;
+    
+}
+
+.h2x{
+    font-weight: bolder;
+    font-size: 2.1rem;
+    line-height: 2;
+    color: #fea938;
+    text-align: left;
+    
+}
+#px1{
+    text-align:left ;
+    color: #595959;
+   padding-bottom:4%; 
+}
+
+.price{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    
+}
+
+.p-tag{
+    font-weight: lighter;
+    font-size: 1.1rem;
+    line-height: 2;
+    color: #595959;
+}
+.pc{
+    padding: 3% 5%;
+}
