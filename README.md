@@ -884,3 +884,15 @@ ________
 * [x] The Bootstrap Navigation Bar
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/106388215/222912328-ccb4bfa0-2dca-43d5-8e5f-b0ad3505dd93.png)
+
+### :date: _DAY 177_
+
+- :calendar: 05-03-2023 Sunday
+
+* [x] Bootstrap Grid Layout System
+* [x] Adding Grid Layouts to Our Website
+* [x] Bootstrap Containers
+* [x] Bootstrap Buttons & Font Awesome
+* [x] Styling Our Website Challenges and Solutions 
+
+![Screenshot (160)](https://user-images.githubusercontent.com/106388215/222972543-b1ca052a-81b5-44eb-9b95-c6820be101b0.png)
