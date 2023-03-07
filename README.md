@@ -896,3 +896,12 @@ ________
 * [x] Styling Our Website Challenges and Solutions 
 
 ![Screenshot (160)](https://user-images.githubusercontent.com/106388215/222972543-b1ca052a-81b5-44eb-9b95-c6820be101b0.png)
+
+### :date: _DAY 178_
+
+- :calendar: 06-03-2023 Monday
+
+* [x] The Bootstrap Carousel
+* [x] Bootstrap Cards
+
+![Screenshot (170)](https://user-images.githubusercontent.com/106388215/223179667-7866a7ae-5548-4f44-9dea-285482fb6bac.png)
