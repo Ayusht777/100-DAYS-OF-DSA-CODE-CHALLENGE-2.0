@@ -914,3 +914,13 @@ ________
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/106388215/223464978-02a28bc3-8b1d-4a37-8ea9-8386765c8a48.png)
 
+### :date: _DAY 180_
+
+- :calendar: 11-03-2023 Saturday
+
+* [x] Media Query Breakpoints
+* [x] Made the website fully responsive for Mobile as well as Tab
+
+![Screenshot (172)](https://user-images.githubusercontent.com/106388215/224499897-0b25f8ea-c893-42c1-9535-250a8abd2ce9.png)
+
+
