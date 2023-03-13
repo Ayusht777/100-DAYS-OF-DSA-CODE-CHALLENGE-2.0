@@ -924,3 +924,47 @@ ________
 ![Screenshot (172)](https://user-images.githubusercontent.com/106388215/224499897-0b25f8ea-c893-42c1-9535-250a8abd2ce9.png)
 
 
+### :date: _DAY 181_
+
+- :calendar: 13-03-2023 Sunday
+
+* [x] Advanced CSS - Combining Selectors
+
+* [x] Refactoring our Website 
+
+* [x] Advanced CSS - Selector Priority
+
+* [x] Completing the Website
+
+* [x] Introduction to Web Design
+
+* [x] Understanding Colour Theory
+
+* [x] Understanding Typography and How to Choose a Font
+
+* [x] Manage ATTENTION with effective User Interface (UI) Design
+
+* [x] User Experience (UX) Design
+
+* [x] Web Design in Practice - Let's apply what we've learnt!
+
+-----------------------------------------------------------------
+
+* [x] Javascript Alerts - Adding Behaviour to Websites
+
+* [x] Data Types
+
+* [x] Javascript Variables
+
+* [x] Javascript Variables Exercise
+
+* [x] Naming and Naming Conventions for Javascript Variables
+
+* [x] String Concatenation
+
+* [x] String Lengths and Retrieving the Number of Characters
+
+* [x] Slicing and Extracting Parts of a String
+
+![Screenshot (173)](https://user-images.githubusercontent.com/106388215/224556249-2702d417-c785-4d6d-8233-080f757c921c.png)
+
