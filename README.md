@@ -968,3 +968,31 @@ ________
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/106388215/224556249-2702d417-c785-4d6d-8233-080f757c921c.png)
 
+### :date: _DAY 182_
+
+- :calendar: 14-03-2023 Monday
+
+* [x]  Basic Arithmetic and the Modulo Operator in Javascript
+* [x]  Increment and Decrement Expressions
+* [x]  Functions Part 1 Creating and Calling Functions
+* [x]  Functions Part 1 Challenge - The Karel Robot
+* [x]  Functions Part 2 Parameters and Arguments
+* [x]  Life in Weeks 
+* [x]  Functions Part 3 Outputs & Return Values
+* [x]  Challenge Create a BMI Calculator
+
+Intermediate Java Script
+
+* [x]  Random Number Generation in Javascript Building a Love Calculator
+* [x]  Control Statements Using If-Else Conditionals & Logic
+* [x]  Comparators and Equality
+* [x]  Combining Comparators
+* [x]  the Leap Year Code Challenge
+* [x]  Collections Working with Javascript Arrays
+* [x]  Adding Elements and Intermediate Array Techniques
+* [x]  Who's Buying Lunch 
+* [x]  Control Statements While Loops
+* [x]  Control Statements For Loops
+* [x]  the Fibonacci Code Challenge
+
+![Uploading Screenshot (174).png…]()
