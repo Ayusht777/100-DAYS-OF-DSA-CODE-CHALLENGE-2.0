@@ -996,3 +996,20 @@ Intermediate Java Script
 * [x]  the Fibonacci Code Challenge
 
 ![Uploading Screenshot (174).png…]()
+
+### :date: _DAY 183_
+
+- :calendar: 15-03-2023 Tuesday
+
+* [x] The Document Object Model (DOM)
+* [x] Adding Javascript to Websites
+* [x] Introduction to the Document Object Model (DOM)
+* [x] Selecting HTML Elements with Javascript
+* [x] Manipulating and Changing Styles of HTML Elements with Javascript
+* [x] The Separation of Concerns Structure vs Style vs Behaviour
+* [x] Text Manipulation and the Text Content Property
+* [x] Manipulating HTML Element Attributes
+* [x] Create a Dice project using previous concept
+
+![Screenshot (175)](https://user-images.githubusercontent.com/106388215/225054604-e18229a3-1d6e-431f-a6a2-dd57862e0220.png)
+
