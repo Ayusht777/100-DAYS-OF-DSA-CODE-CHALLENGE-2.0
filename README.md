@@ -1013,3 +1013,29 @@ Intermediate Java Script
 
 ![Screenshot (175)](https://user-images.githubusercontent.com/106388215/225054604-e18229a3-1d6e-431f-a6a2-dd57862e0220.png)
 
+
+### :date: _DAY 184_
+
+- :calendar: 16-03-2023 Wenesday
+
+* [x]  We'll Make Drum Kit
+
+* [x]  Adding Event Listeners to a Button
+
+* [x]  Higher Order Functions and Passing Functions as Arguments
+
+* [x] How to Play Sounds on a Website
+
+* [x] A Deeper Understanding of Javascript Objects
+
+* [x]  How to Use Switch Statements in Java script
+
+* [x]  Objects, their Methods and the Dot Notation
+
+* [x]  Using Keyboard Event Listeners to Check for Key Presses
+
+* [x]  Understanding Callbacks and How to Respond to Events
+
+* [x]  Adding Animation to Websites![Screenshot (176)](https://user-images.githubusercontent.com/106388215/225371833-ca12c31e-6434-494c-ba8e-9ad3632fed2f.png)
+
+
