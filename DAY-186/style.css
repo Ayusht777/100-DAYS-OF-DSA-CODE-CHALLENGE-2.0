@@ -1,0 +1,24 @@
+h1{
+    background-color: azure;
+    display: inline;
+}
+p{
+    display: inline;
+}
+code{
+    display: block;
+}
+#cd{
+    background-color: aqua;
+    
+    width: 100px;
+    height: 100px;
+}
+#cx{
+    background-color: rgb(255, 4, 0);
+    position: relative;
+
+    width: 100px;
+    height: 100px;
+
+}
