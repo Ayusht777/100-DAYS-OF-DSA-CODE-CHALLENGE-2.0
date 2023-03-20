@@ -1,0 +1,16 @@
+body{
+    background-image: url(./bay_10-wallpaper-1920x1080.jpg);
+    background-repeat:repeat;
+    
+}
+#para{
+    
+    color: antiquewhite;
+    margin: 10px 10px ;
+    padding: 100px 100px 100px 100px;
+    text-transform: capitalize;
+    font-style: italic;
+    text-align: left;
+    line-height: 1.5;
+    font-size: 2rem;
+}
