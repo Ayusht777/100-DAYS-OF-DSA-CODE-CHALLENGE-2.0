@@ -1,0 +1,41 @@
+#div1{
+    background-image: url(./istockphoto-1216846850-612x612.jpg) ;
+    background-color: aquamarine;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    /* background-position: bottom left; */
+    /* background-position: 10px 50px; */
+    /*                width height */
+    
+    /* background-size: 400px auto; */
+
+    /* background-size: contain; */
+
+
+      /* background-size: cover; */
+}
+
+#div2{
+    border: 10px dotted black ;
+    padding: 25px;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    background-clip: padding-box;
+    /* background-clip: content-box; */
+    /* background-clip: border-box;  it is by default */
+
+
+}
+#div3{
+    border: 10px dotted black ;
+   
+    
+    padding: 25px;
+    background-image: url(./istockphoto-1216846850-612x612.jpg);
+    /* background-origin: padding-box; */
+    /* background-origin: content-box;     */
+    background-origin: border-box;
+
+
+}
