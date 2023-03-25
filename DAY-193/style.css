@@ -1,0 +1,184 @@
+body{
+    background-color: rgb(37, 37, 37);
+    font-size: 1.5em;
+    
+}
+main{
+      
+    
+    margin-left: 20px;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* descendent selector  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.des{
+    background-color: rgb(255, 127, 127);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+   
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+   
+    box-sizing:border-box;
+
+}
+
+
+.des p{
+    /* it will going to change color of all p tag in this div also their sub child */
+    /* for all child */
+    
+    color: rgb(255, 255, 255);
+}
+
+/* .des > p { */
+   
+    /* color: rgb(255, 255, 255); */
+    /* only for selective child */
+    /* it will going to change color of only p tag which are direct sub element of the main class  means skipping the inner deep class  */
+/* } */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* universal selector  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.uni{
+    background-color: rgb(210, 255, 127);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+   
+    box-sizing:border-box;
+}
+
+/* *{ */
+    /* this is a universal selector which going to select all thing  */
+  /* text-decoration: underline;   */
+/* } */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* pesudo class  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.pesudo-class{
+     background-color: rgb(255, 172, 127);
+    margin: 10px 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+   
+    box-sizing:border-box;
+    
+}
+
+#list{
+    font-size: 1.2rem;
+    text-align: left;
+    position: relative;
+    left: 35%;
+    bottom: 10px;
+    width: 150px;
+   
+}
+/* li:hover{
+    it will going to select all li element
+    color: aqua;
+} */
+
+ul > *{
+    text-transform: lowercase;
+    color: white;
+   
+} 
+li:first-child:hover{
+    color: aqua;
+    font-weight: bold;
+}
+li:nth-child(2):hover{
+    color: rgb(255, 0, 212);
+}
+li:nth-of-type():hover{
+    color: chartreuse;
+}
+.dspan{
+    position: relative;
+    top:20;
+}
+
+span{
+    color: white;
+    font-size: 8rem;
+    
+}  
+
+.pesudo-ele{
+    background-color: rgb(127, 255, 212);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+   
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    
+    box-sizing:border-box;
+    
+}
+::selection{
+    background-color: orange;
+    color: rgb(255, 255, 255);
+}
+#li2::marker{
+    content:"✨";
+  /* color: plum; */
+}
+
+.attri{
+    background-color: rgb(127, 133, 255);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    
+    box-sizing:border-box;
+}
+a[href="#"]{
+    text-decoration: none;
+    color: white;
+
+}
