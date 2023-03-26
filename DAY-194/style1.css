@@ -1,0 +1,328 @@
+body{
+    margin: 0;
+    background:lightcoral;
+    font-family: "roboto";
+}
+
+.container{
+   width: 100%;
+   margin-top:0px ;
+   margin-bottom: 20px;
+   margin-left: 0px;
+   margin-right:0px ;
+   
+
+}
+header{
+    background: lightblue;
+   
+
+}
+
+.logo{
+    background-color:  rgb(255, 172, 127);
+    border: 1px solid rgb(255, 172, 127);
+    
+    border-radius: 20px 0px;
+    position: relative;
+    top: 15px;
+    left: 5%;
+    width: 180px;
+    height: 50px;
+    z-index: 1;
+    
+}
+
+
+.logo h1{
+    color: white;
+    position: absolute;
+    left:25%;
+    margin-top: 10px;
+
+    text-align: center;
+}
+
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+    
+    
+    
+
+}
+
+nav li{
+    display: inline;
+    position: relative;
+    bottom: 25px;
+    left: 70%;
+    padding: 0 10px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 900;
+    margin:0 10px;
+    
+    color: white;
+}
+
+nav a:hover {
+    background-color: lightcoral;
+    padding:5px 10px;
+    transition: 0.6s;
+    
+}
+
+
+
+
+main{
+      
+    
+    margin-left: 20px;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* descendent selector  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.des{
+    background-color: rgb(255, 127, 127);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+   
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+   
+    box-sizing:border-box;
+    transition: all 0.5s ease-in-out;
+
+}
+
+
+.des p{
+    /* it will going to change color of all p tag in this div also their sub child */
+    /* for all child */
+    
+    color: rgb(255, 255, 255);
+}
+
+.des:hover{
+    transform: scale(0.95);
+
+}
+/* .des > p { */
+   
+    /* color: rgb(255, 255, 255); */
+    /* only for selective child */
+    /* it will going to change color of only p tag which are direct sub element of the main class  means skipping the inner deep class  */
+/* } */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* universal selector  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.uni{
+    background-color: rgb(210, 255, 127);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+   
+    box-sizing:border-box;
+    transition: all 0.5s ease-in-out;
+}
+
+.uni:hover{
+    transform: scale(0.95);
+
+}
+/* *{ */
+    /* this is a universal selector which going to select all thing  */
+  /* text-decoration: underline;   */
+/* } */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* pesudo class  */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.pesudo-class{
+    background-color: rgb(255, 172, 127);
+    margin: 10px 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    transition: all 0.5s ease-in-out;
+    box-sizing:border-box;
+    
+}
+
+.pesudo-class:hover{
+    transform: scale(0.95);
+
+}
+#list{
+    font-size: 1.2rem;
+    text-align: left;
+    position: relative;
+    left: 35%;
+    bottom: 10px;
+    width: 150px;
+   
+}
+/* li:hover{
+    it will going to select all li element
+    color: aqua;
+} */
+
+ul > *{
+    text-transform: lowercase;
+    color: white;
+   
+} 
+li:first-child:hover{
+    color: aqua;
+    font-weight: bold;
+}
+li:nth-child(2):hover{
+    color: rgb(255, 0, 212);
+}
+li:nth-of-type():hover{
+    color: chartreuse;
+}
+.dspan{
+    position: relative;
+    top:20;
+}
+
+span{
+    color: white;
+    font-size: 7.5rem;
+    
+}  
+
+.pesudo-ele{
+    background-color: rgb(127, 255, 212);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+   
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    transition: all 0.5s ease-in-out;
+    box-sizing:border-box;
+    
+}
+.pesudo-ele:hover{
+    transform: scale(0.95);
+
+}
+::selection{
+    background-color: orange;
+    color: rgb(255, 255, 255);
+}
+#li2::marker{
+    content:"✨";
+  /* color: plum; */
+}
+
+.attri{
+    background-color: rgb(127, 133, 255);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+    float: inline-start;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    transition: all 0.5s ease-in-out;
+    box-sizing:border-box;
+}
+.attri:hover{
+    transform: scale(0.95);
+
+}
+a[href="#"]{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.b-a{
+    background-color: rgb(255, 127, 234);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0 10px;
+   
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    text-transform: capitalize;
+    border: 10px solid rgb(57, 57, 57);
+    transition: all 0.5s ease-in-out;
+    box-sizing:border-box;
+}
+.b-a:hover{
+    transform: scale(0.95);
+
+}
+
+.b-a > p::before{
+    content: "@";
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    width: 10px;
+    height: 10px;
+    padding-right: 5px;
+
+    
+}
+
+.b-a  p::after{
+    content: "#";
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    width: 10px;
+    height: 10px;
+    padding-left: 5px;
+}
