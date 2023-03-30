@@ -1,0 +1,46 @@
+.container{
+    background-color: aqua;
+    width: 50vw;
+    height: 50vh;
+    margin: 25vh auto 0;
+    /* center tip */
+    padding: 1.5em;
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap:wrap; */
+
+    flex-flow: row nowrap;
+   
+    /* align-items:center; */
+    
+}
+
+.item{
+    background-color: blueviolet;
+    width: 10%;
+   
+    text-align: center;
+    margin: 5px 5px;
+    padding: 0px 5px;
+    color: white;
+}
+
+.one{
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 150px;
+    
+}
+.two{
+    /* flex-grow:0;
+    flex-shrink: 1;
+    flex-basis: 200px; */
+    flex:0 1 150px;
+    order: 1;
+}
+.three{
+    flex-grow: 2;
+    flex-basis: 200px;
+    align-self: center;
+   
+}

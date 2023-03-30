@@ -1,0 +1,52 @@
+body{
+    background-attachment: fixed;
+    background-color: #161616;
+  
+    margin: 0 0 ;
+    display: flex;
+    justify-content: center;
+
+}
+main #div1{
+    
+    display: flex;
+    justify-content: start;
+    
+}
+main #div1 .div2 img{
+    height: 60vh;
+    left: 0;
+    mask-image:linear-gradient(  rgb( 0 0 0 /1) , rgb( 0 0 0 /0.5) 90%,rgb( 0 0 0 /0) ) ;
+    object-fit: cover;
+    position:absolute;
+    right: 0;
+    top:0;
+    width: 100vw;
+    z-index:-1;
+}
+
+main #div1 .div2 h1{
+    box-sizing: border-box;
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size: clamp(2.5rem,10vw + 0.5rem,6rem);
+    font-weight: 600;
+    left: 50%;
+    margin: 0 auto;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    transform: translate( -50%, 10%);
+}
+
+section #div3{
+    box-sizing: border-box;
+    color: white;
+    font-family: "Roboto";
+    font-size:1.1rem;
+   
+    position: relative;
+    top: 60vh;
+    text-align: justify;
+    width: 80vw;
+}
