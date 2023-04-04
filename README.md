@@ -1036,6 +1036,295 @@ Intermediate Java Script
 
 * [x]  Understanding Callbacks and How to Respond to Events
 
-* [x]  Adding Animation to Websites![Screenshot (176)](https://user-images.githubusercontent.com/106388215/225371833-ca12c31e-6434-494c-ba8e-9ad3632fed2f.png)
+* [x]  Adding Animation to Websites
+
+![Screenshot (176)](https://user-images.githubusercontent.com/106388215/225371833-ca12c31e-6434-494c-ba8e-9ad3632fed2f.png)
+
+### :date: _DAY 185_
+
+- :calendar: 17-03-2023 Thrusday
+
+* [x] DMBS
+
+* [x] What is Data
+* [x] What is Information
+* [x] Data Vs Information
+* [x] How businesses can leverage data and Information
+* [x] What is Database
+* [x] What is DBMS
+* [x] Why don't we use File System Instead of DBMS
+
+* [x] What is Abstraction?
+* [x] Three Schema Architecture | View of Data | Abstraction provided by DBMS
+* [x] Database Instance
+* [x] Importance of Logical Schema
+* [x] Brief introduction to Data Models
+* [x] Database Languages
+* [x] How is Database accessed from Application Programs?
+* [x] Database Administrator (Who is DBA?) 
+* [x] DBMS Application Architecture (Tier 1, Tier 2 and Tier 3)
+
+* [x] What is Entity?
+* [x] What is Entity set?
+* [x] What are Attributes?
+* [x] What are Relationships between Entities?
+* [x] Define ER Model and ER Diagram
+* [x] Attribute Consistency Constraints
+* [x] Types of Attributes (Composite/Multivalued/Derived Attributes)
+* [x] What does NULL specifies in Database?
+* [x] What are Strong and Weak Relationships?
+* [x] Degree of Relationship (Unary/Binary/Ternary Relationships)
+* [x] Mapping Cardinality (1:1, 1:N, N:1, N:M)
+* [x] Participation Constraints (Partial & Total Participation)
+
+* [x] What is Specialization?
+* [x] What is Generalization?
+* [x] Are Specialization and Generalization different in terms of ER Diagram?
+* [x] Attribute inheritance
+* [x] Participation inheritance
+* [x] What is Aggregation?
+
+* [x] Steps to make ER Diagram
+* [x] Requirement Engineering
+* [x] Step 1: Identify Entity sets
+* [x] Step 2: Identify Attributes and their types
+* [x] Step 3: Identify Relationships and Constraints
+* [x] Final ER Diagram
+
+<img src = "https://learnsql.com/blog/what-is-dbms/DBMS.png"> </img>
+
+### :date: _DAY 186_
+
+- :calendar: 18-03-2023 Friday
+
+* [x] ON DELETE CASCADE / ON DELETE SET NULL (Referential Constraint overcome methods)
+* [x] REPLACE vs INSERT
+* [x] JOINS (INNER JOIN/OUTER JOINS/SELF JOIN etc)
+* [x] JOIN without using JOIN keywords
+* [x] SET operations in SQL (UNION/INTERSECT/MINUS)
+* [x] Sub-queries in SQL
+* [x] Views in SQL
+
+<img src = "https://media.licdn.com/dms/image/C5622AQG4qwa0t5ocFg/feedshare-shrink_2048_1536/0/1679152922685?e=1683763200&v=beta&t=_2n-D6STad-BAJtd4OJqwGz6Pt3G9bWvDbIcQYRfRcs" > </img>
+
+### :date: _DAY 187_
+
+- :calendar: 19-03-2023 Saturday
+
+* [x] 50 Most Common SQL Queries for Interviews
+
+![Screenshot (177)](https://user-images.githubusercontent.com/106388215/229702011-187c8b21-d938-49ea-82ac-a972ff940350.png)
+
+### :date: _DAY 188_
+
+- :calendar: 20-03-2023 Sunday
+
+* [x] What is Functional Dependency?
+* [x] Armstrong's Axioms
+* [x] Why Normalisation is necessary?
+* [x] Anomalies due to redundant data
+* [x] Insertion Anomaly
+* [x] Deletion Anomaly
+* [x] Updation Anomaly
+* [x] What we actually do in Normalisation?
+* [x] Types of Normal Forms
+* [x] 1NF
+* [x] 2NF
+* [x] 3NF
+* [x] BCNF
+
+<img src = "https://media.licdn.com/dms/image/C5622AQEh_mA42hSHcQ/feedshare-shrink_800/0/1679328796368?e=1683763200&v=beta&t=sNSu__aYVjOG8u4xPVJnLcsIEpGc_uJnIRASsfLfZac"> </img>
+
+### :date: _DAY 189_
+
+- :calendar: 21-03-2023 Monday
+
+* [x] How to Implement Atomicity and Durability?
+* [x] Shadow Copy Scheme
+* [x] Log based Recovery Methods
+
+* [x] Why Indexing is used?
+* [x] Primary Index / Clustering Index
+* [x] Dense Index VS Sparse Index
+* [x] Multi-level Index
+* [x] Secondary Index
+
+* [x] Brief introduction to NoSQL Databases
+* [x] History behind NoSQL evolution
+* [x] Data modeling in NoSQL
+* [x] Advantages of NoSQL databases
+* [x] When to use NoSQL?
+* [x] Misconception about NoSQL
+* [x] Types on NoSQL databases | Key Values stores
+* [x] Columnar NoSQL
+* [x] Document based stores
+* [x] Graph based stores
+* [x] Disadvantages of NoSQL
+* [x] SQL vs NoSQL
+
+* [x] Types of Databases
+* [x] Relational Databases
+* [x] Object-Oriented Databases
+* [x] NoSQL Databases
+* [x] Hierarchical Databases
+* [x] Network Databases
+
+* [x] What is Clustering / Replication
+
+<img src="https://media.licdn.com/dms/image/C5622AQFMjl7y5k0oOA/feedshare-shrink_800/0/1679414347031?e=1683763200&v=beta&t=h7VJfZ41GfEulAwZTX1kmI2ifUBlkzRuBZpPVIzpN34"> </img>
+
+### :date: _DAY 190_
+
+- :calendar: 22-03-2023 Tuesday
+
+* [x] Database Optimisation Techniques
+* [x] Scale-up DB Optimisation
+* [x] Replica Set (Clustering)
+* [x] Partitioning for scaling out the DB
+* [x] What is Sharding?
+* [x] Query Optimisation and DB Connection Pooling
+* [x] Vertical Scaling (Scale-Up)
+* [x] Command Query Responsibility Segregation (CQRS)
+* [x] Multi Primary Replication
+* [x] Partitioning of Data by Functionality
+* [x] Horizontal Scaling (Scale-out)
+* [x] Establish Multiple Data Centres
+* [x] CAP Theorem in DBMS 
+* [x] Master-Slave Architecture
+
+<img src="https://media.licdn.com/dms/image/C5622AQF2PU9zcSh3qw/feedshare-shrink_800/0/1679505299956?e=1683763200&v=beta&t=KX7eK5LEAeFIr1oC4utLSTC8BZAlxYnFiIRFvMWwpvs"> </img>
+
+### :date: _DAY 191_
+
+- :calendar: 23-03-2023 Wednesday
+
+* [x] Opacity / Transparency
+
+* [x] Selectors
+
+* [x] CSS Font Property Challenge 
+
+* [x] CSS Float and Clear
+
+* [x] Backgrounds
+
+* [x] Background Image ,Attachment ,Repeat
+
+* [x] Borders Padding Margin 
+
+* [x] height width
+
+* [x] Outline
+
+* [x] Style a website using css concept 
+
+![WhatsApp Image 2023-03-23 at 22 01 45](https://user-images.githubusercontent.com/106388215/229702961-3a9df053-de9f-4953-b0a3-21e3a555d931.jpg)
+
+
+### :date: _DAY 192_
+
+- :calendar: 24-03-2023 Thrusday
+
+
+* [x] Box-Sizing
+* [x] Absolute Position
+* [x] Position and Offset Properties
+* [x] Fixed Position and Sticky Position
+
+* [x] Font-Family
+* [x] @Font Face Descriptor
+* [x] Font Weight
+* [x] Font Size
+* [x] Font Style
+
+* [x] Text Align
+* [x] Text Transform
+* [x] Text Indent
+* [x] Line Height
+* [x] Word Spacing and Letter Spacing
+* [x] Text Decoration
+* [x] Text Shadow
+* [x] White Space
+* [x] Text Direction
+
+* [x] Selectors - Grouping Selectors - Universal Selector
+* [x] Selectors - Class Selector
+* [x] ID vs Class Selector
+
+* [x] Style a website using CSS concept
+
+![WhatsApp Image 2023-03-24 at 20 41 12](https://user-images.githubusercontent.com/106388215/229703124-d075d937-f2d8-48e2-9b3a-c3ed77bde591.jpg)
+
+
+### :date: _DAY 193_
+
+- :calendar: 25-03-2023 Friday
+
+* [x] Descendant Selector ( space )
+* [x] Child Selector ( > )
+* [x] Universal Selector ( * )
+* [x] Pseudo-classes( : )
+* [x] Pseudo-elements( :: )
+* [x] Attribute Selector ( [ ] )
+
+![Screenshot (179)](https://user-images.githubusercontent.com/106388215/229703222-6b01356a-b518-45bc-9e39-ad7dc601b440.png)
+
+### :date: _DAY 194_
+
+- :calendar: 26-03-2023 Saturday
+
+* [x] before selector
+* [x] after selector
+* [x] Navigation bar 
+
+![Screenshot (180)](https://user-images.githubusercontent.com/106388215/229703278-b84c3b96-03c9-4a44-b1ca-1bacc1f2bf2e.png)
+
+
+### :date: _DAY 195_
+
+- :calendar: 27-03-2023 Sunday
+
+* [x] Flex box
+
+![Screenshot (181)](https://user-images.githubusercontent.com/106388215/229703380-109e7f34-7398-4ce2-abca-b583ff1f1f25.png)
+
+### :date: _DAY 196_
+
+- :calendar: 28-03-2023 Monday
+
+* [x] Dropdown Menu 
+* [x] counter-increment
+* [x] Calc()
+* [x] Gradients
+* [x] Transform
+
+![Screenshot (182)](https://user-images.githubusercontent.com/106388215/229703406-d72964b9-b828-48ae-80ea-c7a26d01f483.png)
+
+### :date: _DAY 197_
+
+- :calendar: 29-03-2023 Tuesday
+
+* [x] Clip an image to text
+* [x] Button Hover Animation Effects
+* [x] Css Columns
+![Screenshot (184)](https://user-images.githubusercontent.com/106388215/229703448-91939230-2459-4885-8f2b-ea8a82c6a3f6.png)
+
+
+### :date: _DAY 198_
+
+- :calendar: 30-03-2023 Wednesday
+
+
+* [x] How To Make Tooltips With Only CSS
+
+* [x] How to use CSS object-fit to control your images
+
+* [x] Mask-image lets you do some really cool stuff
+
+* [x] Clip an image to text with CSS
+
+![Screenshot (187)](https://user-images.githubusercontent.com/106388215/229703542-e6225c92-680b-45ce-848a-60cb55af1a53.png)
+
+
 
 
